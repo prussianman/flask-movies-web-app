@@ -20,7 +20,7 @@ def search(query_string):
     querystring = {"q":query_string}
 
     headers = {
-        'x-rapidapi-key': "5a66af61acmsh346a479a795a5bbp1ed712jsn994b808dd826",
+        'x-rapidapi-key': "<insert key here>",
         'x-rapidapi-host': "imdb8.p.rapidapi.com"
         }
 
